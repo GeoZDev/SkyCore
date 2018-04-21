@@ -1,5 +1,5 @@
 # SkyCore
-A powerful core (by me) for my server @SkyPracticeNews (on twitter)
+A powerful core (by me) for my server @SkyPracticeNews (on twitter)   git status
 
 # Features
 
