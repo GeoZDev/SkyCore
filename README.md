@@ -22,3 +22,9 @@ A powerful core (by me) for my server @SkyPracticeNews (on twitter)
 - [ ] Some UI Forms :D
 
 Want the core? contact me on discord :stuck_out_tongue: > ItzLegend#5344
+
+# Where I work
+
+- SkyPractice
+- BeaconGames
+- Magmaticus (maybe, only for CastleSiege minigame)
