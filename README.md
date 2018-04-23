@@ -1,6 +1,8 @@
 # SkyCore
 A powerful core (by me) for my server @SkyPracticeNews (on twitter)
 
+# ALERT: need FormAPI to work.
+
 # Features
 
 - [x] Book Help
