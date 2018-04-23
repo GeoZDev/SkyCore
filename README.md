@@ -13,13 +13,15 @@ A powerful core (by me) for my server @SkyPracticeNews (on twitter)
 
 - [x] Staff Command (BETA)
 
+- [x] Ban with GUI
+
 # TODO
 
 - [ ] ServerSelector
 
 - [ ] Gadgets
 
-- [ ] Some UI Forms :D
+- [x] Some UI Forms :D
 
 Want the core? contact me on discord :stuck_out_tongue: > ItzLegend#5344
 
