@@ -17,6 +17,8 @@ A powerful core (by me) for my server @SkyPracticeNews (on twitter)
 
 - [x] Ban with GUI
 
+- [x] Kick with GUI
+
 # TODO
 
 - [ ] ServerSelector
