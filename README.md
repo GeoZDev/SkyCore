@@ -1,9 +1,9 @@
 # SkyCore
-A powerful core (by me) for my server @SkyPracticeNews (on twitter)
+A powerful core (by me) for PocketMine 1.2.1x
 
-# ALERT: need FormAPI to work.
+## ALERT: need FormAPI to work.
 
-# Features
+## Features
 
 - [x] Book Help
 
@@ -19,18 +19,15 @@ A powerful core (by me) for my server @SkyPracticeNews (on twitter)
 
 - [x] Kick with GUI
 
-# TODO
+- [x] Double Jump (with perm)
 
-- [ ] ServerSelector
+- [x] AntiMovementLag
 
-- [ ] Gadgets
+## TODO
 
+- [ ] Death NPC
 - [x] Some UI Forms :D
 
 Want the core? contact me on discord :stuck_out_tongue: > ItzLegend#5344
 
-# Where I work
-
-- SkyPractice
-- BeaconGames
-- Magmaticus (maybe, only for CastleSiege minigame)
+or telegram, @ImVarion
