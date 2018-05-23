@@ -25,7 +25,7 @@ A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 ## TODO
 
-- [ ] Death NPC
+- [ ] Death NPC (It is too difficult xD, ok no.)
 - [ ] Particles Selector
 - [x] Some UI Forms :D
 
