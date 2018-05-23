@@ -26,6 +26,7 @@ A powerful core (by me) for PocketMine 1.2.1x
 ## TODO
 
 - [ ] Death NPC
+- [ ] Particles Selector
 - [x] Some UI Forms :D
 
 Want the core? contact me on discord :stuck_out_tongue: > ItzLegend#5344
