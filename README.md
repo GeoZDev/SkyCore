@@ -1,7 +1,7 @@
 # SkyCore
 A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
-## ALERT: need FormAPI to work.
+### ALERT: need FormAPI to work.
 
 ## Features
 
@@ -23,7 +23,7 @@ A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 - [x] AntiMovementLag
 
-## TODO
+### TODO
 
 - [ ] Death NPC (It is too difficult xD, ok no.)
 - [ ] Particles Selector
