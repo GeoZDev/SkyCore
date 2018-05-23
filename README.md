@@ -1,5 +1,5 @@
 # SkyCore
-A powerful core (by me) for PocketMine 1.2.1x
+A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 ## ALERT: need FormAPI to work.
 
