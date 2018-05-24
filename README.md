@@ -27,6 +27,10 @@ A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 - [ ] Death NPC (It is too difficult xD, ok no.)
 - [ ] Particles Selector
+- [ ] NoVoid
+- [ ] WorldTP
+- [ ] ClearInventory
+- [ ] CustomDurability (on items)
 - [x] Some UI Forms :D
 
 Want the core? contact me on discord :stuck_out_tongue: > ItzLegend#5344
