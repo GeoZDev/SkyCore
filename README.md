@@ -23,6 +23,8 @@ A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 - [x] AntiMovementLag
 
+- [x] NoVoid
+
 ### TODO
 
 - [ ] Death NPC (It is too difficult xD, ok no.)
