@@ -27,10 +27,13 @@ A powerful core (by me) for PocketMine 1.2.1x / 1.4.0
 
 - [x] WorldTP
 
+- [x] Prefix on new v2.4 update
+
 ### TODO
 
 - [ ] Death NPC (It is too difficult xD, ok no.)
 - [ ] Particles Selector
+- [x] Prefix on new updates
 - [x] NoVoid
 - [x] WorldTP
 - [ ] ClearInventory
